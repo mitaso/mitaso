@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+
+#prfgazou {
+	margin: 80px auto ;
+}
+
+#prflist {
+	margin: 0 410px;
+}
+
+.ppp figcaption li {
+text-align: left;
+margin: 0 40px;
+display: list-item;
+list-style-type: none;
+padding: 0.4em;
+}
+
+
+
+body {
+	background-color: rgb(180, 175, 175);
+	color: white;
+	text-align: center;
+}
+
+ul {
+	text-align: right;
+}
+
+.navi li {
+	list-style: none;
+	display: inline;
+	padding: 10px;
+}
+
+.navi li+ li {
+	border-left: 1px solid white;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.sendok{
+	font-size: 25px;
+}
+
+.s397 {
+	font-size: 40px;
+	color:red;
+}
+
+a:link, a:visited, a:hover, a:active{
+	color: white;
+}
+
+.co-name {
+	width: 400px;
+	height: 20px;
+	text-align: left;
+}
+
+.co-address {
+	width: 400px;
+	height: 20px;
+	text-align: left;
+}
+
+.co-title {
+	width: 400px;
+	height: 20px;
+	text-align: left;
+}
+
+.co-naiyou {
+	width: 400px;
+	height: 200px;
+	text-align: left;
+}
+
+.co-submit {
+	width: 200px;
+	transition: all 1s;
+	border-radius: 5px;
+}
+
+.co-submit:hover {
+	background-color: aquamarine;
+}
+
+.contact {
+	text-align: center;
+	margin-top: 20px;
+}
+
